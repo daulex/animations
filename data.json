@@ -1,0 +1,122 @@
+{
+    "heading": {
+        "title": "QuantumCore Jet Engine",
+        "level": 1
+    },
+    "img": {
+        "src": "engine.jpg",
+        "alt": "QuantumCore Jet Engine",
+        "className": "engine"
+    },
+    
+    "detailsList": [
+        {
+            "id": "hyperfusion",
+            "summary": "HyperFusion Turbine",
+            "p": "Maximizes thrust with a fusion-powered core, surpassing conventional engines."
+        },
+        {
+            "id": "aeroglide",
+            "summary": "AeroGlide Thrust Vectoring",
+            "p": "Unmatched agility and control through dynamic thrust manipulation."
+        },
+        {
+            "id": "nanoglow",
+            "summary": "NanoGlow Plasma Exhaust",
+            "p": "Futuristic plasma trail illuminates the sky with an otherworldly glow."
+        },
+        {
+            "id": "smartflow",
+            "summary": "SmartFlow Intake System",
+            "p": "Self-adjusting air intake optimizes performance across all altitudes."
+        }
+    ],
+    "lines": [
+        {
+            "id": "line-hyperfusion",
+            "x1": "30%",
+            "y1": "40%",
+            "x2": "10%",
+            "y2": "20%",
+            "stroke": "#1E90FF"
+        },
+        {
+            "id": "line-aeroglide",
+            "x1": "55%",
+            "y1": "70%",
+            "x2": "10%",
+            "y2": "79%",
+            "stroke": "#1E90FF"
+        },
+        {
+            "id": "line-nanoglow",
+            "x1": "70%",
+            "y1": "50%",
+            "x2": "95%",
+            "y2": "20%",
+            "stroke": "#1E90FF"
+        },
+        {
+            "id": "line-smartflow",
+            "x1": "80%",
+            "y1": "60%",
+            "x2": "95%",
+            "y2": "70%",
+            "stroke": "#1E90FF"
+        }
+    ],
+    "circles": [
+        {
+            "id": "trigger-hyperfusion",
+            "outerCircle": {
+                "cx": "30%",
+                "cy": "40%",
+                "r": "8"
+            },
+            "innerCircle": {
+                "cx": "30%",
+                "cy": "40%",
+                "r": "7"
+            }
+        },
+        {
+            "id": "trigger-aeroglide",
+            "outerCircle": {
+                "cx": "55%",
+                "cy": "70%",
+                "r": "8"
+            },
+            "innerCircle": {
+                "cx": "55%",
+                "cy": "70%",
+                "r": "7"
+            }
+        },
+        {
+            "id": "trigger-nanoglow",
+            "outerCircle": {
+                "cx": "70%",
+                "cy": "50%",
+                "r": "8"
+            },
+            "innerCircle": {
+                "cx": "70%",
+                "cy": "50%",
+                "r": "7"
+            }
+        },
+        {
+            "id": "trigger-smartflow",
+            "outerCircle": {
+                "cx": "80%",
+                "cy": "60%",
+                "r": "8"
+            },
+            "innerCircle": {
+                "cx": "80%",
+                "cy": "60%",
+                "r": "7"
+            }
+        }
+    ]
+}
